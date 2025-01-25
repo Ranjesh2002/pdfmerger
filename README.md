@@ -64,4 +64,6 @@ This project is licensed under the ISC License.
 
 Ranjesh Thakur - [rs0036870@example.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/Ranjesh2002/pdfmerger](https://github.com/your-username/pdfmerger)
+## Live Project
+
+Check out the live project at: [[(https://ranjesh2002.github.io/pdfmerger/)](https://ranjesh2002.github.io/pdfmerger/)]
